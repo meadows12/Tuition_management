@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "48790050785",
+    "firebase_url": "https://studentmanagement-de115.firebaseio.com",
+    "project_id": "studentmanagement-de115",
+    "storage_bucket": "studentmanagement-de115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48790050785:android:75fcbb03b67eba9724a4a0",
+        "android_client_info": {
+          "package_name": "com.example.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48790050785-rp6jlosq3mak013vr1c7d4shtj2vkjsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDe9FtzqsXB2eKcgOdZqUcB_1zVHPdcrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48790050785-rp6jlosq3mak013vr1c7d4shtj2vkjsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48790050785:android:774e99e799e3c07624a4a0",
+        "android_client_info": {
+          "package_name": "com.hackathon.StudentManagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48790050785-rp6jlosq3mak013vr1c7d4shtj2vkjsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDe9FtzqsXB2eKcgOdZqUcB_1zVHPdcrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48790050785-rp6jlosq3mak013vr1c7d4shtj2vkjsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
